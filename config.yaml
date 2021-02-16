@@ -1,5 +1,5 @@
 theme: "hugo-serif-theme"
-baseURL: http://example.org/
+baseURL: https://datatodev.netlify.app/
 languageCode: en-us
 title: Data To Dev Collective
 menu:
