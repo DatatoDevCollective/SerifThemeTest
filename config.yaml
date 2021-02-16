@@ -1,0 +1,17 @@
+theme: "hugo-serif-theme"
+baseURL: http://example.org/
+languageCode: en-us
+title: Data To Dev Collective
+menu:
+  # Main Menu
+  main:
+    - name: "Posts"
+      url: "/post/"
+      weight: 1
+
+params:
+  logo:
+    mobile: images/SmallLogo.svg
+    desktop: images/BigLogo.svg
+    desktop_height: 72px
+    alt: Data To Dev Collective
